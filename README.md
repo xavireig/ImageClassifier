@@ -1,5 +1,6 @@
 http://scikit-learn.org/dev/install.html
 numpy: http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+http://blog.yhathq.com/posts/image-classification-in-Python.html (http://nbviewer.ipython.org/gist/hernamesbarbara/5768969)
 
 TO DO:
 
